@@ -15,7 +15,7 @@ To use the JSONDatabase module, follow these steps:
 
 1. Clone this repository:
    ```shell
-   git clone https://github.com/yourusername/Your-Repository-Name.git
+   git clone https://github.com/nedal-jo/jsondb
 
 Create a virtual environment (optional but recommended):
 
